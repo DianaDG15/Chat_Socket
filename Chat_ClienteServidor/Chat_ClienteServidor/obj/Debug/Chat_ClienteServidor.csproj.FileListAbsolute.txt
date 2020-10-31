@@ -1,0 +1,12 @@
+C:\Users\diave\Desktop\TAREAS\Chat_ClienteServidor\Chat_ClienteServidor\bin\Debug\Chat_ClienteServidor.exe
+C:\Users\diave\Desktop\TAREAS\Chat_ClienteServidor\Chat_ClienteServidor\bin\Debug\Chat_ClienteServidor.pdb
+C:\Users\diave\Desktop\TAREAS\Chat_ClienteServidor\Chat_ClienteServidor\bin\Debug\Transitions.dll
+C:\Users\diave\Desktop\TAREAS\Chat_ClienteServidor\Chat_ClienteServidor\bin\Debug\Transitions.pdb
+C:\Users\diave\Desktop\TAREAS\Chat_ClienteServidor\Chat_ClienteServidor\obj\Debug\Chat_ClienteServidor.csprojAssemblyReference.cache
+C:\Users\diave\Desktop\TAREAS\Chat_ClienteServidor\Chat_ClienteServidor\obj\Debug\Chat_ClienteServidor.Form1.resources
+C:\Users\diave\Desktop\TAREAS\Chat_ClienteServidor\Chat_ClienteServidor\obj\Debug\Chat_ClienteServidor.Properties.Resources.resources
+C:\Users\diave\Desktop\TAREAS\Chat_ClienteServidor\Chat_ClienteServidor\obj\Debug\Chat_ClienteServidor.csproj.GenerateResource.cache
+C:\Users\diave\Desktop\TAREAS\Chat_ClienteServidor\Chat_ClienteServidor\obj\Debug\Chat_ClienteServidor.csproj.CoreCompileInputs.cache
+C:\Users\diave\Desktop\TAREAS\Chat_ClienteServidor\Chat_ClienteServidor\obj\Debug\Chat_ClienteServidor.csproj.CopyComplete
+C:\Users\diave\Desktop\TAREAS\Chat_ClienteServidor\Chat_ClienteServidor\obj\Debug\Chat_ClienteServidor.exe
+C:\Users\diave\Desktop\TAREAS\Chat_ClienteServidor\Chat_ClienteServidor\obj\Debug\Chat_ClienteServidor.pdb

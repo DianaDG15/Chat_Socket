@@ -1,0 +1,6 @@
+C:\Users\diave\Desktop\TAREAS\Socket_Servidor\Socket_Servidor\bin\Debug\Socket_Servidor.exe
+C:\Users\diave\Desktop\TAREAS\Socket_Servidor\Socket_Servidor\bin\Debug\Socket_Servidor.pdb
+C:\Users\diave\Desktop\TAREAS\Socket_Servidor\Socket_Servidor\obj\Debug\Socket_Servidor.csprojAssemblyReference.cache
+C:\Users\diave\Desktop\TAREAS\Socket_Servidor\Socket_Servidor\obj\Debug\Socket_Servidor.csproj.CoreCompileInputs.cache
+C:\Users\diave\Desktop\TAREAS\Socket_Servidor\Socket_Servidor\obj\Debug\Socket_Servidor.exe
+C:\Users\diave\Desktop\TAREAS\Socket_Servidor\Socket_Servidor\obj\Debug\Socket_Servidor.pdb
